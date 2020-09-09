@@ -265,6 +265,10 @@ footer {
 @media screen and (min-height: 868px) {
   #hero {
     height: 50vh; }
+  .caro {
+    height: 50px;
+    height: 50px; 
+  }  
   #contact {
     height: 45vh; }
   .page .page-container {
@@ -298,6 +302,10 @@ footer {
       flex-direction: column;
       text-align: center; }
   .page .page-container {
+  . caro {
+    height: 50px;
+    width: 50px;
+  } 
     width: 100vw; }
   #inventory .inventory-inner .col-4 {
     grid-template-columns: repeat(2, 1fr); }
@@ -322,6 +330,10 @@ footer {
 @media screen and (max-width: 700px) {
   #hero {
     height: auto; }
+    .caro {
+      height: 350px;
+      width: 350px;
+    }
     #hero .hero-inner {
       padding-top: 3rem;
       grid-template-columns: 1fr; }
